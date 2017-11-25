@@ -1,0 +1,99 @@
+body{
+  margin:0px;
+  font-family: 'Raleway', sans-serif;
+  color:white;
+}
+
+.encabezado{
+  background-color: #FF875F;
+  text-align: right;
+  padding: 50px 20px 50px 20px;
+}
+
+.principalTitle{
+  font-size: 50px;
+}
+
+.pandaFace{
+  width: 100%;
+  padding: 0px !important;
+  margin: 0px;
+  height: 440px;
+  overflow: hidden;
+}
+
+.pandaFaceImg{
+  width: 100%;
+  filter: grayscale(100%); 
+  margin: -160px 0px 0px 0px;
+}
+
+.aboutPandas{
+  background-color: #a7d38e;
+  border-top: 20px solid #FF875F;  
+  border-bottom: 20px solid #FF875F;  
+}
+
+.contentAbout{
+  background-color: #FF875F;
+  font-size: 18px;
+  text-align: center;
+  width: 590px;
+  height: 370px;
+  box-sizing: border-box;
+  padding: 20px;
+  margin: 40px auto;
+}
+
+.contentAbout h2{
+  text-align: center;
+}
+
+.twoPandas{
+  width: 100%;
+  padding: 0px !important;
+  margin: 0px;
+  height: 650px;
+  overflow: hidden;
+}
+
+.twoPandasImg{
+  width: 100%;
+  filter: grayscale(100%);
+}
+
+#miniPics{
+  border-top: 20px solid #FF875F;  
+  border-bottom: 20px solid #FF875F;    
+  background-color: #9eda7c;
+  text-align: center;
+}
+
+#miniPics h2{
+  font-size: 55px;
+  padding-top: 60px;
+}
+
+#miniPics img{
+  border: 10px solid white;
+  margin: 20px 20px 60px 20px;
+}
+
+.sleepyPanda{
+  width: 100%;
+  padding: 0px !important;
+  margin: 0px;
+  height: 660px;
+  overflow: hidden;
+}
+
+.sleepyPandaImg{
+  width: 100%;
+  filter: grayscale(100%);  
+}
+
+footer{
+  background-color: #FF875F;
+  text-align: right;
+  padding-top: 10px;
+}
